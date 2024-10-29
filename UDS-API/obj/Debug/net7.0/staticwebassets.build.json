@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6m9JGUS3p9vkitdGr0DC980w5RCfB8K8a4ZmGXG4IZ0=",
+  "Source": "UDS-API",
+  "BasePath": "_content/UDS-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

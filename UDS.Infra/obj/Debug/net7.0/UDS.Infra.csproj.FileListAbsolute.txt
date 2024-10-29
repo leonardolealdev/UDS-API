@@ -1,0 +1,15 @@
+C:\Git\UDS-API\UDS.Infra\bin\Debug\net7.0\UDS.Infra.deps.json
+C:\Git\UDS-API\UDS.Infra\bin\Debug\net7.0\UDS.Infra.dll
+C:\Git\UDS-API\UDS.Infra\bin\Debug\net7.0\UDS.Infra.pdb
+C:\Git\UDS-API\UDS.Infra\bin\Debug\net7.0\UDS.Domain.dll
+C:\Git\UDS-API\UDS.Infra\bin\Debug\net7.0\UDS.Domain.pdb
+C:\Git\UDS-API\UDS.Infra\obj\Debug\net7.0\UDS.Infra.csproj.AssemblyReference.cache
+C:\Git\UDS-API\UDS.Infra\obj\Debug\net7.0\UDS.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\UDS-API\UDS.Infra\obj\Debug\net7.0\UDS.Infra.AssemblyInfoInputs.cache
+C:\Git\UDS-API\UDS.Infra\obj\Debug\net7.0\UDS.Infra.AssemblyInfo.cs
+C:\Git\UDS-API\UDS.Infra\obj\Debug\net7.0\UDS.Infra.csproj.CoreCompileInputs.cache
+C:\Git\UDS-API\UDS.Infra\obj\Debug\net7.0\UDS.Infra.csproj.CopyComplete
+C:\Git\UDS-API\UDS.Infra\obj\Debug\net7.0\UDS.Infra.dll
+C:\Git\UDS-API\UDS.Infra\obj\Debug\net7.0\refint\UDS.Infra.dll
+C:\Git\UDS-API\UDS.Infra\obj\Debug\net7.0\UDS.Infra.pdb
+C:\Git\UDS-API\UDS.Infra\obj\Debug\net7.0\ref\UDS.Infra.dll
