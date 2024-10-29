@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UDS-API", "UDS-API\UDS-API.csproj", "{87799243-F6E5-4C72-90B6-491F1B35F17A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E71C5ADF-4E19-499C-825B-2E1765CEF4E7} = {E71C5ADF-4E19-499C-825B-2E1765CEF4E7}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDS.Domain", "UDS.Domain\UDS.Domain.csproj", "{E71C5ADF-4E19-499C-825B-2E1765CEF4E7}"
 EndProject

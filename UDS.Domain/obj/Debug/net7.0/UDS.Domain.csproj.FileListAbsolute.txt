@@ -1,0 +1,12 @@
+C:\Git\UDS-API\UDS.Domain\bin\Debug\net7.0\UDS.Domain.deps.json
+C:\Git\UDS-API\UDS.Domain\bin\Debug\net7.0\UDS.Domain.dll
+C:\Git\UDS-API\UDS.Domain\bin\Debug\net7.0\UDS.Domain.pdb
+C:\Git\UDS-API\UDS.Domain\obj\Debug\net7.0\UDS.Domain.csproj.AssemblyReference.cache
+C:\Git\UDS-API\UDS.Domain\obj\Debug\net7.0\UDS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\UDS-API\UDS.Domain\obj\Debug\net7.0\UDS.Domain.AssemblyInfoInputs.cache
+C:\Git\UDS-API\UDS.Domain\obj\Debug\net7.0\UDS.Domain.AssemblyInfo.cs
+C:\Git\UDS-API\UDS.Domain\obj\Debug\net7.0\UDS.Domain.csproj.CoreCompileInputs.cache
+C:\Git\UDS-API\UDS.Domain\obj\Debug\net7.0\UDS.Domain.dll
+C:\Git\UDS-API\UDS.Domain\obj\Debug\net7.0\refint\UDS.Domain.dll
+C:\Git\UDS-API\UDS.Domain\obj\Debug\net7.0\UDS.Domain.pdb
+C:\Git\UDS-API\UDS.Domain\obj\Debug\net7.0\ref\UDS.Domain.dll
