@@ -30,3 +30,8 @@ C:\Git\UDS-API\UDS-API\obj\Debug\net7.0\refint\UDS-API.dll
 C:\Git\UDS-API\UDS-API\obj\Debug\net7.0\UDS-API.pdb
 C:\Git\UDS-API\UDS-API\obj\Debug\net7.0\UDS-API.genruntimeconfig.cache
 C:\Git\UDS-API\UDS-API\obj\Debug\net7.0\ref\UDS-API.dll
+C:\Git\UDS-API\UDS-API\bin\Debug\net7.0\UDS.Domain.dll
+C:\Git\UDS-API\UDS-API\bin\Debug\net7.0\UDS.Domain.pdb
+C:\Git\UDS-API\UDS-API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Git\UDS-API\UDS-API\bin\Debug\net7.0\UDS.Infra.dll
+C:\Git\UDS-API\UDS-API\bin\Debug\net7.0\UDS.Infra.pdb

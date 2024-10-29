@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\UDS.Domain\UDS.Domain.csproj" />
+    <ProjectReference Include="..\UDS.Infra\UDS.Infra.csproj" />
   </ItemGroup>
 
 </Project>

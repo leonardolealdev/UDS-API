@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Tq4iwtUNEvRQi2DpNC/8nGGWnQpDfignu4phUXhqDehRKYreWVAj5m1RmWD3i1srI2Url7eCQuNI7WgDyZbvzQ==",
+  "dgSpecHash": "ilvBmvBKBtafmiEP4fgd2mxrtS0dAY3euZqqmLUApEFyXCtWudrhIqiqZmG+Tg5dCRRLCa1AaMSsYL9RSEl0kA==",
   "success": true,
   "projectFilePath": "C:\\Git\\UDS-API\\UDS.Domain\\UDS.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\leall\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

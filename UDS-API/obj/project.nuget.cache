@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cZV9u7sGvBL6CVT+Towc9d3VKEnJk2wwRSpW1UxVDIOHlv0I2hBWv+9A8U2SwTNA2385dgS6eFqLN+fWNVG6ow==",
+  "dgSpecHash": "IMREc1R11NhXH3lBsJ5iQ137FlVjVA6S6JRGtAVbf0hb6UYdRwo2gPyKffYf7whKeyIH1YGRyP1jH/ep3eYvFA==",
   "success": true,
   "projectFilePath": "C:\\Git\\UDS-API\\UDS-API\\UDS-API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leall\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\leall\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\leall\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\leall\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
     "C:\\Users\\leall\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
     "C:\\Users\\leall\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
